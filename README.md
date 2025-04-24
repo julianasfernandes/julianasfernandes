@@ -1,5 +1,5 @@
 # Olá, eu sou a Juliana Fernandes 👋
-Estou a cursar pós-graduação em Engenharia de Software com Ênfase em Qualidade e Testes e atualmente trabalho como QA (testes manuais e automatizados) e PO para uma empresa portuguesa. O objetivo desse repositório é guardar os projetos pessoais que fiz para a finalidade de estudo.
+Sou QA (testes manuais e automatizados) há mais de 2 anos, possuo pós-graduação em Engenharia de Software com Ênfase em Qualidade e Testes e Cerificação CFFL-ISTQB. O objetivo desse repositório é guardar os projetos pessoais que fiz para a finalidade de estudo.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianasfernandes&layout=donut-vertical)]()
